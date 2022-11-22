@@ -1,0 +1,5 @@
+id;surname;name;class;status
+1;Иванов;Иван;10 Б;ученик
+2;Иванов;Иван;10 Б;ученик
+3;& "C:/Users/Divio Black/AppData/Local/Programs/Python/Python311/python.exe" "c:/Users/Divio Black/Desktop/Учеба/Python/DZ_Seminar_8/read_data.py";Иван;10Б;ученик
+4;& "C:/Users/Divio Black/AppData/Local/Programs/Python/Python311/python.exe" "c:/Users/Divio Black/Desktop/Учеба/Python/DZ_Seminar_8/search_data.py";& "C:/Users/Divio Black/AppData/Local/Programs/Python/Python311/python.exe" "c:/Users/Divio Black/Desktop/Учеба/Python/DZ_Seminar_8/write_data.py";10Б;учение
